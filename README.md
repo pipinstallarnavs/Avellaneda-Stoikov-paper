@@ -4,7 +4,7 @@ Implementation of the Avellaneda-Stoikov optimal market making model with a real
 
 ## Overview
 
-This project implements the market making strategy from the paper ["High-frequency Trading in a Limit Order Book"](https://www.math.nyu.edu/faculty/avellane/HighFrequencyTrading.pdf) by Avellaneda & Stoikov (2008).
+This project implements the market making strategy from the paper ["High-frequency Trading in a Limit Order Book"](https://people.orie.cornell.edu/sfs33/LimitOrderBook.pdf) by Avellaneda & Stoikov (2008).
 
 **Key Features:**
 - Limit order book with price-time priority
